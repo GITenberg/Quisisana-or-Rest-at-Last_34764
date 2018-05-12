@@ -1,0 +1,32 @@
+_repo: Quisisana-or-Rest-at-Last_34764
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Goldschmidt, H. E.
+    gutenberg_agent_id: '37205'
+    url: http://www.gutenberg.org/2009/agents/37205
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spielhagen, Friedrich
+    birthdate: 1829
+    deathdate: 1911
+    gutenberg_agent_id: '37099'
+    url: http://www.gutenberg.org/2009/agents/37099
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_von_Spielhagen
+description: ''
+gutenberg_issued: '2010-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+title: Quisisana; or, Rest at Last
+url: http://www.gutenberg.org/ebooks/34764
